@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Italo Costa Ribeiro 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Desenvolvedor+Java+%26+Python" alt="Typing SVG" />
+</p>
 
-<!--
-**italo-01/italo-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de **Engenharia de Software**
+- 💻 Apaixonado por tecnologia e desenvolvimento
+- 🌍 Minas Gerais, Brasil
+- 📬 italocosta019641@gmail.com
+- 🚀 Sempre aprendendo e evoluindo
+
+---
+
+### 🛠️ Tecnologias que uso
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,idea,pycharm" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-01&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
+---
+
+### 🗂️ Projetos em destaque
+
+| Projeto | Descrição | Linguagem |
+|--------|-----------|-----------|
+| [EstoqueProduto](https://github.com/italo-01/EstoqueProduto) | Sistema de gerenciamento de estoque | Java |
+| [CadastroEscolar](https://github.com/italo-01/CadastroEscolar) | Cadastro de alunos e turmas com MySQL | Java |
+| [SistemaBiblioteca](https://github.com/italo-01/SistemaBiblioteca) | Sistema de gerenciamento de livros | Java |
+| [ValidadorSenha](https://github.com/italo-01/ValidadorSenha) | Validador de força de senhas | Java |
+| [Caixa-Eletrônico](https://github.com/italo-01/Caixa-Eletrônico) | Simulação de caixa eletrônico | Java |
+| [SistemaEstacionamento](https://github.com/italo-01/SistemaEstacionamento) |  Aplicação Java via terminal para gerenciar entradas, saídas e tarifas de um estacionamento.| Java |
+
+---
+
+
