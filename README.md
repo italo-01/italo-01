@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Italo Costa Ribeiro 👋</h1>
+<h1 align="center">Olá, eu sou o Italo Costa Ribeiro </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Desenvolvedor+Java+%26+Python" alt="Typing SVG" />
 </p>
