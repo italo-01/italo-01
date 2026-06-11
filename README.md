@@ -23,13 +23,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-01&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-
----
 
 ### 🗂️ Projetos em destaque
 
